@@ -1,3 +1,6 @@
 .DS_Store
-data/alertmanager
-data/prometheus
+
+data/alertmanager/*
+!data/alertmanager/.gitkeep
+data/prometheus/*
+!data/prometheus/.gitkeep
